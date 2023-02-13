@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pranavsaraf.github.io/Texthelper",
-  "name": "text-help",
+  "homepage": "https://pranavsaraf.github.io/TextHelp",
+  "name": "TextHelp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
