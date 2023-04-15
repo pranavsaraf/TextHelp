@@ -27,7 +27,7 @@ function App() {
         if(mode ==='light'){
             setmode('dark');
             document.body.style.backgroundColor='#042743';
-            showAlert("Dark mode has been enabled","success");
+            showAlert("Dark mode has been enabled","success");  
             document.title="MytextHelper-Dark Mode";
         }
         else{
